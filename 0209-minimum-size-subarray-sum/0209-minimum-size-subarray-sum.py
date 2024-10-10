@@ -1,6 +1,5 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        if sum(nums) < target: return 0
         l, r, total = 0, 0, 0
         ans = len(nums)
         while r < len(nums):
@@ -11,4 +10,6 @@ class Solution:
                 total -= nums[l]
                 l += 1
             r += 1
+        
+        if ans == len(nums) and total < target: return 0
         return ans
