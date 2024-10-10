@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
