@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
