@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0289-game-of-life) |
 | [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
