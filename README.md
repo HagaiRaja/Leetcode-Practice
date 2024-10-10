@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
+| [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 ## Sorting
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
+## Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
