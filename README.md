@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
 ## Array
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
