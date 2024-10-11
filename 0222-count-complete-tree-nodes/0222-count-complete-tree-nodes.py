@@ -7,11 +7,4 @@
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if root == None: return 0
-        ans = 0
-        que = [root]
-        while que:
-            cur = que.pop()
-            ans += 1
-            if cur.left: que.append(cur.left)
-            if cur.right: que.append(cur.right)
-        return ans
+        return 1 + self.countNodes(root.left) + self.countNodes(root.right)
