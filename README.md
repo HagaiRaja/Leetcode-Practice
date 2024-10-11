@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,4 +139,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
