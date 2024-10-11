@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0289-game-of-life) |
 | [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
