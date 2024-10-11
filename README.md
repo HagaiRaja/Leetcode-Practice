@@ -128,23 +128,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
