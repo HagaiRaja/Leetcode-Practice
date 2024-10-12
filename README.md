@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting Sort
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
 | ------- |
