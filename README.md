@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
 ## Recursion
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
