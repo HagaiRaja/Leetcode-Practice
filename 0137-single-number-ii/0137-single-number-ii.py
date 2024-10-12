@@ -1,12 +1,19 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        fi, se = set(), set()
-        ans = 0
+        cnt = [0]*32
         for num in nums:
-            if num in se: continue
-            if num in fi:
-                se.add(num)
-            else:
-                fi.add(num)
-            ans ^= num
+            for i in range(32):
+                if num & 1:
+                    cnt[i] += 1
+                num >>= 1
+        # build ans
+        ans = 0
+        cur = 1
+        for i in range(31):
+            if cnt[i]%3:
+                ans += cur
+            cur <<= 1
+
+        if cnt[31]%3:
+            return ans - (1 << 31)
         return ans
