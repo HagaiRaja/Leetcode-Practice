@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0399-evaluate-division](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0399-evaluate-division) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
@@ -174,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0399-evaluate-division) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
