@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0189-rotate-array) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
 ## Counting Sort
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0772-construct-quad-tree](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0772-construct-quad-tree) |
 ## Dynamic Programming
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0148-sort-list](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
