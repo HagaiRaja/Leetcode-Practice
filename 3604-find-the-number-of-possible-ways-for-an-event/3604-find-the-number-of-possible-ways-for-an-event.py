@@ -21,7 +21,6 @@ class Solution:
                 cur *= cur
                 cur %= MOD
                 b >>= 1
-            print("pow", a, temp, ans)
             return ans
         
         def perm(a,b):
@@ -34,6 +33,5 @@ class Solution:
         ans = 0
         for num_band in range(1, min(n,x)+1):
             ans += getStirling(n, num_band)*perm(x, num_band)*pow_mod(y, num_band)
-            print(num_band, getStirling(n, num_band), perm(x, num_band), pow_mod(y, num_band))
             ans %= MOD
         return ans
