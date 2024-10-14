@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0189-rotate-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0149-max-points-on-a-line](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
