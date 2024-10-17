@@ -30,7 +30,6 @@ class Solution:
             if stack[i][1] != stack[i][2]:
                 break
         
-        print(stack)
         if i == len(stack): return num
         digits[stack[i][1]], digits[stack[i][2]] = digits[stack[i][2]], digits[stack[i][1]]
         return int("".join(digits))
