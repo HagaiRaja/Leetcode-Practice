@@ -270,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
