@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
+| [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -76,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
 | [0502-ipo](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
+| [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Math
 |  |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0670-maximum-swap) |
+| [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -185,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
