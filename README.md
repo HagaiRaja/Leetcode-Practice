@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0399-evaluate-division](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0399-evaluate-division) |
+| [1197-parsing-a-boolean-expression](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/3195-separate-black-and-white-balls) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
+| [1197-parsing-a-boolean-expression](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
