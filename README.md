@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0772-construct-quad-tree](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0772-construct-quad-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Bit Manipulation
