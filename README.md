@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
