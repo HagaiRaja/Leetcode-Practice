@@ -16,12 +16,9 @@ class Solution:
                 if nums[i] > nums[j]:
                     r[i] = max(r[i], r[j] + 1)
         # search ans
-        # print(l)
-        # print(r)
         ans = N
         for i in range(1, N-1):
             if l[i] == 1 or r[i] == 1: continue
             ans = min(ans, N-l[i]-r[i]+1)
-            # print(i, N-l[i]-r[i]+1)
         return ans
         
