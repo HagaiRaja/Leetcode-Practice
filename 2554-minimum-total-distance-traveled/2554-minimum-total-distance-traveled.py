@@ -15,8 +15,6 @@ class Solution:
                 factory[f][1] -= 1
                 ans = min(ans, abs(robot[r]-factory[f][0]) + backtrack(r+1, f))
                 factory[f][1] += 1
-                # print(r, f, "test", abs(robot[r]-factory[f][0]), r+1, backtrack(r+1, f))
             cache[key] = ans
             return ans
-        # print(cache)
         return backtrack(0, 0)
