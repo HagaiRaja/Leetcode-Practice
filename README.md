@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0399-evaluate-division](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0399-evaluate-division) |
+| [0812-rotate-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1304-longest-happy-string) |
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0184-department-highest-salary) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
