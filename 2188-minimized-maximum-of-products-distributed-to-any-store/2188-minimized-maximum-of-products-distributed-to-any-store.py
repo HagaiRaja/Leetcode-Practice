@@ -1,13 +1,18 @@
 class Solution:
     def minimizedMaximum(self, n: int, quantities: List[int]) -> int:
-        heap = [(-q, 1) for q in quantities]
-        heapq.heapify(heap)
-
-        for _ in range(n-len(quantities)):
-            q, num = heapq.heappop(heap)
-            q = (q*num)/(num+1)
-            heapq.heappush(heap, (q, num+1))
+        def check(split):
+            m = 0
+            for q in quantities:
+                m += q//split + ((q%split) != 0)
+            return m <= n
         
-        q, num = heapq.heappop(heap)
-        q *= -1
-        return int(q) + ((q - int(q)) != 0)
+        l, r = 1, max(quantities)
+        while (l < r):
+            mid = (l+r) // 2
+            if check(mid):
+                r = mid - 1
+            else:
+                l = mid + 1
+        
+        if check(l): return l
+        return l + 1
