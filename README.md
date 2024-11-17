@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0747-min-cost-climbing-stairs](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0772-construct-quad-tree) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0945-snakes-and-ladders](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 | [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -143,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -364,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
