@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1002-maximum-width-ramp](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 | [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0945-snakes-and-ladders) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
