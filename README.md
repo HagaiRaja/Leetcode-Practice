@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-maximum-matrix-sum](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
