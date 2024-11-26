@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0399-evaluate-division) |
+| [3189-find-champion-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/3189-find-champion-ii) |
 ## Shortest Path
 |  |
 | ------- |
