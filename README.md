@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0274-h-index) |
 | [1140-distant-barcodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1140-distant-barcodes) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Stack
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1940-maximum-xor-for-each-query](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/HagaiRaja/Leetcode-Practice/tree/master/3394-minimum-array-end) |
