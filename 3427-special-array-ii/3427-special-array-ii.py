@@ -17,7 +17,7 @@ class Solution:
                     l = mid
                     break
             return l
-        print(bads)
+
         ans = []
         for s, e in queries:
             s1 = get_idx(s)
@@ -26,5 +26,4 @@ class Solution:
                 ans.append(True)
             else:
                 ans.append(False)
-            print(s1, e1)
         return ans
