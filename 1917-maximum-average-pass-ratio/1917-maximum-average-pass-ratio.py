@@ -6,9 +6,8 @@ class Solution:
         prio = []
         for i in range(len(classes)):
             entry = [-calc_prio(classes[i][0], classes[i][1]), i]
-            prio.append(entry)
+            heapq.heappush(prio, entry)
         
-        heapq.heapify(prio)
         for _ in range(extraStudents):
             _, i = heapq.heappop(prio)
             classes[i][0] += 1
